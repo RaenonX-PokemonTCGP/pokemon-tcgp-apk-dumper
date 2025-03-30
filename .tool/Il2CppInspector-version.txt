@@ -1,2 +1,0 @@
-# `Il2CppInspector` needs to be named exactly `Il2CppInspector.exe` to work
-2023.1+5b0476fcc572e51e8184ef6105330e75b21f80b0
