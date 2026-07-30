@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "clientVersion": "1.7.0",
+  "unityVersion": "6000.0.69f1",
+  "buildVersion": "5c2e78d8d68d665bf9ecd902323eacb48606d687",
+  "appVersionHashKey": "a2b072c38256122121b057875474ecd68e55eff7fe44845cbe96b685f0fb8696",
+  "extractedAt": "2026-07-30T07:55:01.5759291+00:00",
+  "source": {
+    "globalManagersEntry": "assets/bin/Data/globalgamemanagers",
+    "takashoConfigEntry": "assets/bin/Data/589ed6b34a1c4454b9b724468d5a468b"
+  }
+}
