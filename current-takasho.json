@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "clientVersion": "1.8.0",
+  "clientVersion": "1.8.1",
   "unityVersion": "6000.0.82f1",
   "buildVersion": "ca80828147ee00aef496ee3005b5525d52d6eacd",
-  "appVersionHashKey": "7e0422cd54631969581f3e5cd315f6140cfeb3282c4f3dc77a758cb983cf62a5",
-  "extractedAt": "2026-10-28T05:45:41.6506795+00:00",
+  "appVersionHashKey": "48f8bc1586162ff1c50e01c589246fd926ff2919ba8cea3d80e3e67c3a140a69",
+  "extractedAt": "2026-11-02T23:52:48.9412262+00:00",
   "source": {
     "globalManagersEntry": "assets/bin/Data/globalgamemanagers",
     "takashoConfigEntry": "assets/bin/Data/589ed6b34a1c4454b9b724468d5a468b"
